@@ -1,0 +1,7 @@
+segment,personalized_impressions,generic_impressions,personalized_ctr_pct,generic_ctr_pct,ctr_uplift_pct,personalized_purchase_rate_pct,generic_purchase_rate_pct,purchase_rate_uplift_pct,personalized_revenue_per_impression,generic_revenue_per_impression,revenue_per_impression_uplift_pct,personalized_revenue,generic_revenue
+One-Time Buyer,14685,10530,18.59,9.29,100.16,1.8,0.33,440.87,1.2346,0.1868,561.11,18130.7,1966.52
+Performance Athlete,41354,29955,19.01,9.23,105.84,1.83,0.31,490.39,1.2308,0.2203,458.65,50897.43,6599.48
+UA Rewards Member,46685,33428,21.2,11.33,86.99,2.16,0.42,407.78,1.4801,0.2909,408.87,69097.79,9722.71
+Casual Buyer,59145,41997,18.93,9.04,109.54,1.89,0.41,363.0,1.3085,0.2703,384.08,77392.23,11352.15
+Discount Hunter,31394,22141,18.63,8.95,108.16,1.8,0.38,367.96,1.2307,0.2558,381.1,38636.29,5663.89
+UA Rewards Elite,16480,11901,20.93,11.23,86.48,2.14,0.47,355.21,1.4077,0.3155,346.24,23199.61,3754.4

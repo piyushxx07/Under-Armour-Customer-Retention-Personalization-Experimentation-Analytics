@@ -1,0 +1,25 @@
+experiment_id,experiment_name,experiment_goal,variant,exposed_users,clicks,conversions,ctr_pct,conversion_rate_pct,revenue,revenue_per_exposed_user
+EXP004,New Homepage Layout vs Old Layout,improve_homepage_conversion,control,16631,1979.0,877.0,11.9,5.27,137176.71,8.25
+EXP007,Project Rock Collection Targeted Push,increase_recommendation_revenue,treatment,16680,2685.0,1390.0,16.1,8.33,229496.43,13.76
+EXP010,Sport Affinity Email Personalization,improve_email_click_through_rate,treatment,16695,2450.0,1287.0,14.68,7.71,204541.2,12.25
+EXP011,App vs Web Conversion Optimization,increase_app_conversion_rate,treatment,16665,2950.0,1472.0,17.7,8.83,233856.67,14.03
+EXP001,Personalized vs Generic Homepage Recommendations,increase_recommendation_ctr,treatment,16755,3261.0,1383.0,19.46,8.25,217855.87,13.0
+EXP002,UA Rewards Loyalty Banner Test,increase_loyalty_member_conversion,control,16614,1981.0,800.0,11.92,4.82,138473.38,8.33
+EXP004,New Homepage Layout vs Old Layout,improve_homepage_conversion,treatment,16702,3203.0,1564.0,19.18,9.36,252984.37,15.15
+EXP007,Project Rock Collection Targeted Push,increase_recommendation_revenue,control,16653,2026.0,786.0,12.17,4.72,129570.38,7.78
+EXP010,Sport Affinity Email Personalization,improve_email_click_through_rate,control,16638,1952.0,812.0,11.73,4.88,125534.61,7.55
+EXP011,App vs Web Conversion Optimization,increase_app_conversion_rate,control,16668,1987.0,849.0,11.92,5.09,133063.58,7.98
+EXP001,Personalized vs Generic Homepage Recommendations,increase_recommendation_ctr,control,16577,2061.0,847.0,12.43,5.11,145103.86,8.75
+EXP002,UA Rewards Loyalty Banner Test,increase_loyalty_member_conversion,treatment,16719,2595.0,1200.0,15.52,7.18,210948.43,12.62
+EXP005,Search Ranking Algorithm A vs B,improve_search_conversion,control,16465,1969.0,838.0,11.96,5.09,139932.27,8.5
+EXP006,UA Rewards Early Access Personalization,increase_loyalty_member_retention,control,16672,2044.0,842.0,12.26,5.05,151909.44,9.11
+EXP008,Discount Banner Personalization Test,reduce_discount_hunter_churn,treatment,16500,3121.0,1584.0,18.92,9.6,256436.51,15.54
+EXP009,Holiday Season Recommendation Engine v2,increase_holiday_revenue,control,16474,2128.0,816.0,12.92,4.95,129937.47,7.89
+EXP012,Loyalty Tier Upgrade Nudge Test,increase_loyalty_upgrade_rate,control,16686,1988.0,804.0,11.91,4.82,138098.85,8.28
+EXP003,Sport-Based Recommendation Engine v1,increase_recommendation_ctr,treatment,16782,2745.0,1638.0,16.36,9.76,258063.0,15.38
+EXP005,Search Ranking Algorithm A vs B,improve_search_conversion,treatment,16868,2994.0,1278.0,17.75,7.58,200872.82,11.91
+EXP006,UA Rewards Early Access Personalization,increase_loyalty_member_retention,treatment,16661,2865.0,1865.0,17.2,11.19,331807.16,19.92
+EXP008,Discount Banner Personalization Test,reduce_discount_hunter_churn,control,16833,2102.0,803.0,12.49,4.77,127474.03,7.57
+EXP009,Holiday Season Recommendation Engine v2,increase_holiday_revenue,treatment,16859,2742.0,1591.0,16.26,9.44,255375.91,15.15
+EXP012,Loyalty Tier Upgrade Nudge Test,increase_loyalty_upgrade_rate,treatment,16647,2817.0,1606.0,16.92,9.65,291457.29,17.51
+EXP003,Sport-Based Recommendation Engine v1,increase_recommendation_ctr,control,16551,2059.0,849.0,12.44,5.13,131506.5,7.95

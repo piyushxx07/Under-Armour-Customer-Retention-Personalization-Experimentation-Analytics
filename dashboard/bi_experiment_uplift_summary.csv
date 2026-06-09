@@ -1,0 +1,13 @@
+experiment_id,experiment_name,experiment_goal,control_users,treatment_users,control_ctr_pct,treatment_ctr_pct,ctr_lift_pp,ctr_uplift_pct,control_conversion_rate_pct,treatment_conversion_rate_pct,conversion_lift_pp,conversion_uplift_pct,control_revenue,treatment_revenue,incremental_revenue,control_revenue_per_user,treatment_revenue_per_user,revenue_per_user_lift,revenue_per_user_uplift_pct,experiment_result
+EXP006,UA Rewards Early Access Personalization,increase_loyalty_member_retention,16672,16661,12.26,17.2,4.94,40.29,5.05,11.19,6.14,121.58,151909.44,331807.16,179897.72,9.11,19.92,10.81,118.66,Treatment Wins
+EXP012,Loyalty Tier Upgrade Nudge Test,increase_loyalty_upgrade_rate,16686,16647,11.91,16.92,5.01,42.07,4.82,9.65,4.83,100.21,138098.85,291457.29,153358.44,8.28,17.51,9.23,111.47,Treatment Wins
+EXP008,Discount Banner Personalization Test,reduce_discount_hunter_churn,16833,16500,12.49,18.92,6.43,51.48,4.77,9.6,4.83,101.26,127474.03,256436.51,128962.48,7.57,15.54,7.97,105.28,Treatment Wins
+EXP003,Sport-Based Recommendation Engine v1,increase_recommendation_ctr,16551,16782,12.44,16.36,3.92,31.51,5.13,9.76,4.63,90.25,131506.5,258063.0,126556.5,7.95,15.38,7.43,93.46,Treatment Wins
+EXP009,Holiday Season Recommendation Engine v2,increase_holiday_revenue,16474,16859,12.92,16.26,3.34,25.85,4.95,9.44,4.49,90.71,129937.47,255375.91,125438.44,7.89,15.15,7.26,92.02,Treatment Wins
+EXP004,New Homepage Layout vs Old Layout,improve_homepage_conversion,16631,16702,11.9,19.18,7.28,61.18,5.27,9.36,4.09,77.61,137176.71,252984.37,115807.66,8.25,15.15,6.9,83.64,Treatment Wins
+EXP007,Project Rock Collection Targeted Push,increase_recommendation_revenue,16653,16680,12.17,16.1,3.93,32.29,4.72,8.33,3.61,76.48,129570.38,229496.43,99926.05,7.78,13.76,5.98,76.86,Treatment Wins
+EXP011,App vs Web Conversion Optimization,increase_app_conversion_rate,16668,16665,11.92,17.7,5.78,48.49,5.09,8.83,3.74,73.48,133063.58,233856.67,100793.09,7.98,14.03,6.05,75.81,Treatment Wins
+EXP010,Sport Affinity Email Personalization,improve_email_click_through_rate,16638,16695,11.73,14.68,2.95,25.15,4.88,7.71,2.83,57.99,125534.61,204541.2,79006.59,7.55,12.25,4.7,62.25,Treatment Wins
+EXP002,UA Rewards Loyalty Banner Test,increase_loyalty_member_conversion,16614,16719,11.92,15.52,3.6,30.2,4.82,7.18,2.36,48.96,138473.38,210948.43,72475.05,8.33,12.62,4.29,51.5,Treatment Wins
+EXP001,Personalized vs Generic Homepage Recommendations,increase_recommendation_ctr,16577,16755,12.43,19.46,7.03,56.56,5.11,8.25,3.14,61.45,145103.86,217855.87,72752.01,8.75,13.0,4.25,48.57,Treatment Wins
+EXP005,Search Ranking Algorithm A vs B,improve_search_conversion,16465,16868,11.96,17.75,5.79,48.41,5.09,7.58,2.49,48.92,139932.27,200872.82,60940.55,8.5,11.91,3.41,40.12,Treatment Wins

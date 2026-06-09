@@ -1,0 +1,5 @@
+recommendation_model,impressions,clicks,purchases,ctr_pct,cvr_after_click_pct,purchase_rate_per_impression_pct,recommendation_revenue,revenue_per_impression,revenue_per_click
+personalized,209743,40984.0,4061.0,19.54,9.91,1.94,277354.05,1.3224,6.77
+sport_based,150153,24943.0,2045.0,16.61,8.2,1.36,140246.94,0.934,5.62
+loyalty_based,90152,13343.0,921.0,14.8,6.9,1.02,63735.56,0.707,4.78
+generic,149952,14646.0,582.0,9.77,3.97,0.39,39059.15,0.2605,2.67

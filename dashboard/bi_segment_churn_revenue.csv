@@ -1,0 +1,7 @@
+segment,total_customers,active_customers,churned_customers,churn_rate_pct,retention_rate_pct,loyalty_members,loyalty_member_pct,avg_lifetime_value,purchasing_customers,completed_transactions,completed_revenue,avg_completed_transaction_value,revenue_per_customer
+One-Time Buyer,14099,6330.0,7769.0,55.1,44.9,4983.0,35.34,656.17,11541,14955.0,1553827.33,103.9,110.21
+Discount Hunter,29872,20181.0,9691.0,32.44,67.56,10333.0,34.59,781.11,29758,106237.0,10811274.9,101.77,361.92
+Casual Buyer,56057,43746.0,12311.0,21.96,78.04,19608.0,34.98,1123.41,56037,278612.0,28370596.76,101.83,506.1
+UA Rewards Member,44240,40289.0,3951.0,8.93,91.07,44240.0,100.0,2764.4,44240,628640.0,63466877.26,100.96,1434.6
+Performance Athlete,39854,37081.0,2773.0,6.96,93.04,13970.0,35.05,3460.63,39854,509986.0,51976491.23,101.92,1304.17
+UA Rewards Elite,15878,15242.0,636.0,4.01,95.99,15878.0,100.0,5555.71,15878,337170.0,33965177.57,100.74,2139.13

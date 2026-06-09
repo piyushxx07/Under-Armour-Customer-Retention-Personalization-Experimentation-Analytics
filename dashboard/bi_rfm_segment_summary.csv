@@ -1,0 +1,9 @@
+rfm_segment,recommended_action,customers,customer_pct,avg_recency_days,avg_frequency,avg_monetary_value,avg_order_value,total_monetary_value,churned_customers,active_customers,churn_rate_pct,retention_rate_pct,loyalty_member_pct,app_user_pct,email_opt_in_pct
+Lost / Dormant Customers,Reactivation,51862,26.75,678.7,3.2,322.24,100.82,16712201.83,15776.0,36086.0,30.42,69.58,35.28,62.09,71.84
+New / Promising Customers,Nurture,14296,7.37,52.44,4.12,431.06,105.53,6162419.83,3753.0,10543.0,26.25,73.75,35.32,62.49,72.53
+Big Spenders - Low Frequency,Increase Frequency,332,0.17,157.23,5.08,1354.83,283.16,449803.1,69.0,263.0,20.78,79.22,33.13,59.34,71.39
+Regular Customers,Maintain Engagement,38439,19.83,156.88,10.75,1075.32,99.4,41334068.15,5763.0,32676.0,14.99,85.01,58.01,61.91,71.99
+At-Risk Loyal Customers,Win Back,16335,8.43,387.78,9.0,842.61,95.76,13764039.04,2365.0,13970.0,14.48,85.52,52.37,61.51,72.12
+At-Risk High-Value Customers,Win Back,9345,4.82,320.05,15.47,1655.03,108.39,15466285.0,670.0,8675.0,7.17,92.83,74.87,61.7,72.13
+Loyal Customers,Maintain Engagement,21900,11.3,49.09,10.05,905.14,93.47,19822627.54,2678.0,19222.0,12.23,87.77,56.75,62.13,72.1
+VIP Customers,Protect and Reward,41345,21.33,45.3,17.52,1848.66,106.85,76432800.56,3048.0,38297.0,7.37,92.63,80.04,61.53,71.87
