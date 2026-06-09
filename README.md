@@ -259,8 +259,11 @@ under-armour-retention-personalization-analytics/
 │   ├── 09_ab_testing_analysis.sql
 │   └── 10_bi_ready_views.sql
 │
-├── exported_bi_tables/
-│
+├── data/
+│   ├── data_generate/
+│       └──create_data.py
+│   ├── exported_bi_tables/
+│       
 ├── theme/
 │   └── Under_Armour_Dark_Theme.json
 │
