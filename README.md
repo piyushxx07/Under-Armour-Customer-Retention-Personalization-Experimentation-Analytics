@@ -294,3 +294,6 @@ under-armour-retention-personalization-analytics/
 ## Project Outcome
 
 This project demonstrates the ability to perform end-to-end ecommerce product analytics using SQL and Power BI, covering customer retention, segmentation, personalization, cohort analysis, and experimentation.
+## Author
+
+**Piyush Kumar**
