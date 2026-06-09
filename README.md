@@ -247,7 +247,7 @@ under-armour-retention-personalization-analytics/
 │   ├── Under_Armour_Retention_Dashboard.pbix
 │   └── dashboard_screenshots/
 │
-├── sql/
+├── sql_files/
 │   ├── 01_data_validation.sql
 │   ├── 02_clean_views.sql
 │   ├── 03_executive_kpis.sql
@@ -264,9 +264,8 @@ under-armour-retention-personalization-analytics/
 ├── theme/
 │   └── Under_Armour_Dark_Theme.json
 │
-├── images/
 │
-└── notes/
+└── notebook/
 ```
 
 ---
